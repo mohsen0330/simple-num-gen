@@ -1,6 +1,6 @@
-#simple-num-gen
+# simple-num-gen
 
-Features of the app
+##Features of the app
 
 Inputs: min value, max value, number of values to generate, repeat toggle, base64‑encoded seed.
 Persistence: remembers previous inputs via ```config.json```.
